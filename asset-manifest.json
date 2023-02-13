@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.0ca73664.css",
+    "main.js": "/my-portfolio/static/js/main.f5496ac8.js",
+    "static/media/gasncharge.png": "/my-portfolio/static/media/gasncharge.981ba569d4abc378b3fa.png",
+    "static/media/profile.png": "/my-portfolio/static/media/profile.3160f9029b077b93fb55.png",
+    "static/media/fitcal.png": "/my-portfolio/static/media/fitcal.40639de78f70202b7b6a.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.0ca73664.css.map": "/my-portfolio/static/css/main.0ca73664.css.map",
+    "main.f5496ac8.js.map": "/my-portfolio/static/js/main.f5496ac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca73664.css",
+    "static/js/main.f5496ac8.js"
+  ]
+}
